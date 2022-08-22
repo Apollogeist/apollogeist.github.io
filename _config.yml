@@ -1,0 +1,5 @@
+name: Apollogeist's Website
+description: My personal site.
+url: "https://apollogeist.github.io"
+markdown: kramdown
+highlighter: rogue
